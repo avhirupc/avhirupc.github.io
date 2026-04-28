@@ -8,7 +8,7 @@ profile:
   align: right
   image: avhirup.jpg
 
-news: true
+news: false
 social: true
 ---
 
